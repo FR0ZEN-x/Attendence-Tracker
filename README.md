@@ -15,7 +15,7 @@ This web application helps manage student attendance records. Users can sign up,
 ![Login Page](Images/Login_page.png)
 
 ### Home Page
-![Home Page](Images/Home_page.png.png)
+![Home Page](Images/Home_page.png)
 
 ### Attendance Page
 ![Attendance Page](Images/Attendence_page.png)
